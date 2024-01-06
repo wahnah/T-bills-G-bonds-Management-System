@@ -1,4 +1,4 @@
-# Laravel Auction
+# Laravel T-bills & G-bonds Management System
 
 Demo project based on Breeze authentication, 
 with real-time bid updates and automatic lot sales after time expires.
@@ -9,8 +9,7 @@ The project has the following features:
 
 - User registration and authentication.
 - Spatie roles and permissions.
-- Admin Panel for managing users and lots.
-- Uploading images of lots.
+- Admin Panel for managing users and lots(T-bills & G-bonds).
 - Updating bids via Socket.io.
 - Sending email to buyer and seller.
 - Generating a user's avatar via laravolt/avatar.
